@@ -1,0 +1,19 @@
+{
+  "versions": [
+    {
+      "version": "4.7-stable",
+      "recommended": true,
+      "editor": {
+        "url": "https://github.com/godotengine/godot-builds/releases/download/4.7-stable/Godot_v4.7-stable_win64.exe.zip",
+        "sha512": "41645a908eb3181d6f2d1201ed7b6d6f095f6a23aaed8903d5d255277cc8d142814f3e6817f865b3cac142c39b8aff99280091d3bbdaa301517730b3ba0522b9",
+        "exeRelPath": "Godot_v4.7-stable_win64_console.exe",
+        "maxBytes": 167528742
+      },
+      "webTemplates": {
+        "url": "https://github.com/KeiNishi/canv-dist/releases/download/godot-4.7-stable/godot-4.7-stable-web-templates.zip",
+        "sha512": "887b27e57033a3e4929475448ff35d3b5e371567749abfd61add031bc4a7b708ad3e25fa1f8d05b304925acf6ae005e7e9ca79db21401962dd0240f607e841d1",
+        "maxBytes": 180000000
+      }
+    }
+  ]
+}
