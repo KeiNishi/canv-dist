@@ -14,6 +14,20 @@
         "sha512": "887b27e57033a3e4929475448ff35d3b5e371567749abfd61add031bc4a7b708ad3e25fa1f8d05b304925acf6ae005e7e9ca79db21401962dd0240f607e841d1",
         "maxBytes": 180000000
       }
+    },
+    {
+      "version": "4.7.2-stable",
+      "editor": {
+        "url": "https://github.com/godotengine/godot-builds/releases/download/4.7.2-stable/Godot_v4.7.2-stable_win64.exe.zip",
+        "sha512": "83decd58fdf67b9d657958a1ae6bf1929c20785315a81effe245874cdc57acb709bf868e00778a96984338c1b29dafdb453c6847747694621c6ecf5da2259993",
+        "exeRelPath": "Godot_v4.7.2-stable_win64_console.exe",
+        "maxBytes": 86013866
+      },
+      "webTemplates": {
+        "url": "https://github.com/KeiNishi/canv-dist/releases/download/godot-4.7.2-stable/godot-4.7.2-stable-web-templates.zip",
+        "sha512": "3c7f102561c5a46206c21dd462557552825dae7fdfe021df9430b0665f040c6307d56925024d59e3a6fd9def9b22f72c299f23de5a1e2e5b08b32f0423dda309",
+        "maxBytes": 87904740
+      }
     }
   ]
 }
