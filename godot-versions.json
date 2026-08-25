@@ -12,7 +12,12 @@
       "webTemplates": {
         "url": "https://github.com/KeiNishi/canv-dist/releases/download/godot-4.7-stable/godot-4.7-stable-web-templates.zip",
         "sha512": "887b27e57033a3e4929475448ff35d3b5e371567749abfd61add031bc4a7b708ad3e25fa1f8d05b304925acf6ae005e7e9ca79db21401962dd0240f607e841d1",
-        "maxBytes": 180000000
+        "maxBytes": 180000000,
+        "fallback": {
+          "url": "https://github.com/godotengine/godot-builds/releases/download/4.7-stable/Godot_v4.7-stable_export_templates.tpz",
+          "sha512": "1035dfde4edcc2472bb0c0b9610ce3ee9302642c2b9957e9066372f9f6bb759ab250c8887551a66f0bc5f51bbd9a58bb45e33a0f29844e97615a9b1138c1120e",
+          "maxBytes": 1279207690
+        }
       }
     },
     {
@@ -26,7 +31,12 @@
       "webTemplates": {
         "url": "https://github.com/KeiNishi/canv-dist/releases/download/godot-4.7.2-stable/godot-4.7.2-stable-web-templates.zip",
         "sha512": "3c7f102561c5a46206c21dd462557552825dae7fdfe021df9430b0665f040c6307d56925024d59e3a6fd9def9b22f72c299f23de5a1e2e5b08b32f0423dda309",
-        "maxBytes": 87904740
+        "maxBytes": 87904740,
+        "fallback": {
+          "url": "https://github.com/godotengine/godot-builds/releases/download/4.7.2-stable/Godot_v4.7.2-stable_export_templates.tpz",
+          "sha512": "ca4d71c4d7b81dfc15d1a98baa07534aa95b03fdda78a0075b06672e1648d2e5f40980c9adc28d23e1b92e732ee7bf3461997aa804af74ec2fcd7a93ccb84079",
+          "maxBytes": 1281349702
+        }
       }
     }
   ]
